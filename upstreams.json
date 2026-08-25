@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "updated": "2026-08-25",
+  "repositories": [
+    {"repo": "anthropics/skills", "category": "agent-skills", "priority": 5},
+    {"repo": "VoltAgent/awesome-agent-skills", "category": "skill-index", "priority": 5},
+    {"repo": "browser-use/browser-use", "category": "browser-agent", "priority": 5},
+    {"repo": "affaan-m/ECC", "category": "agent-harness", "priority": 5},
+    {"repo": "rohitg00/agentmemory", "category": "memory", "priority": 4},
+    {"repo": "the-open-agent/openagent", "category": "computer-agent", "priority": 4},
+    {"repo": "mvanhorn/last30days-skill", "category": "research-skill", "priority": 4},
+    {"repo": "K-Dense-AI/scientific-agent-skills", "category": "scientific-skills", "priority": 5},
+    {"repo": "android/skills", "category": "android-skills", "priority": 4},
+    {"repo": "ai-boost/awesome-harness-engineering", "category": "harness-index", "priority": 4}
+  ]
+}
