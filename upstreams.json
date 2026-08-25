@@ -11,6 +11,18 @@
     {"repo": "mvanhorn/last30days-skill", "category": "research-skill", "priority": 4},
     {"repo": "K-Dense-AI/scientific-agent-skills", "category": "scientific-skills", "priority": 5},
     {"repo": "android/skills", "category": "android-skills", "priority": 4},
-    {"repo": "ai-boost/awesome-harness-engineering", "category": "harness-index", "priority": 4}
+    {"repo": "ai-boost/awesome-harness-engineering", "category": "harness-index", "priority": 4},
+    {"repo": "obra/superpowers", "category": "agent-skills-framework", "priority": 5},
+    {"repo": "PrimeIntellect-ai/prime-agent", "category": "coding-agent", "priority": 5},
+    {"repo": "msitarzewski/agency-agents", "category": "multi-agent", "priority": 5},
+    {"repo": "addyosmani/agent-skills", "category": "coding-skills", "priority": 5},
+    {"repo": "mattpocock/skills", "category": "engineering-skills", "priority": 5},
+    {"repo": "garrytan/gstack", "category": "agent-team", "priority": 5},
+    {"repo": "nextlevelbuilder/ui-ux-pro-max-skill", "category": "design-skill", "priority": 5},
+    {"repo": "Panniantong/Agent-Reach", "category": "research-agent", "priority": 5},
+    {"repo": "paperclipai/paperclip", "category": "multi-agent-orchestration", "priority": 5},
+    {"repo": "stablyai/orca", "category": "agent-fleet", "priority": 4},
+    {"repo": "cathrynlavery/diagram-design", "category": "diagram-skill", "priority": 5},
+    {"repo": "kepano/obsidian-skills", "category": "knowledge-skills", "priority": 4}
   ]
 }
